@@ -1,0 +1,54 @@
+{
+  "term": "Spring",
+  "year": "2013",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Programming Languages"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Software Design and Engineering"
+    ]
+  ],
+  "legacy_uid": "1692b78a-8422-1e8c-3588-4b488313e41f",
+  "instructors": {
+    "content": [
+      "33e4f5a0-95f2-fd1d-1b75-80717e16d3e0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "080db013-fccc-2ad6-1ea6-a87e4ddc2e95",
+    "website": "6-170-software-studio-spring-2013"
+  },
+  "course_title": "Software Studio",
+  "course_description": "This course on software engineering covers design and implementation of medium-scale software systems, using web applications as a platform. In the course, students learn the fundamentals of structuring a web application and writing modular code, with an emphasis on conceptual design to achieve clarity, simplicity, and modularity. Topics also include functional programming, relational databases, and security.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.170",
+  "course_image_thumbnail": {
+    "content": "be278447-eb37-df0d-983e-0d9392950513",
+    "website": "6-170-software-studio-spring-2013"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects"
+  ],
+  "site_uid": "5e7de621-9ad9-4128-9e4d-4b3ea698c6e4",
+  "site_short_id": "6.170-spring-2013",
+  "site_url_path": "courses/6-170-software-studio-spring-2013",
+  "title": "Course Metadata"
+}

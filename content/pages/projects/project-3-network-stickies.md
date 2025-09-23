@@ -1,0 +1,73 @@
+---
+content_type: page
+description: 'This section provides a project overview and the list of deliverables
+  for a project to design and implement a sticky note application as a JavaScript
+  program running client side, with state persisted on a web server.    '
+draft: false
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
+parent_title: Projects
+parent_type: CourseSection
+parent_uid: 1b52d2eb-781f-59fc-2005-cfdb8156e288
+title: 'Project 3: Network Stickies'
+uid: 0d24d28e-38e9-aeba-0a38-f6372fba5d1f
+---
+## Overview
+
+Sticky notes have been used for a long time to keep track of small snippets of information in an accessible manner. First introduced in 1980, they were marketed by 3M as {{% resource_link "e20ce7ab-90fe-43f1-b2a2-c79de5aed84c" "Post-it" %}} notes. The idea was carried over to the virtual desktop, with Apple's {{% resource_link "31e9988a-6f3d-4f58-8e04-83a0513ff4b4" "Stickies" %}} and later Windows 7's {{% resource_link "013907c6-28a5-4e49-847e-03d4109ebf50" "Sticky Notes" %}}. The idea was to create small windows on the screen like Post-it notes where the users can place reminders, notes, clippings, etc.
+
+Now there are note-taking applications on the web (such as {{% resource_link "9239e79b-e010-47e7-91b0-b1cfaca07a70" "listhings" %}} and {{% resource_link "27a12983-e6fc-49a6-9b19-f49a4a31415d" "onlinestickynotes" %}}) that persist notes on a central server, allowing you to retrieve and update them on any device with internet access. {{% resource_link "ba095768-bb74-404a-9417-70763ddfa266" "EverNote" %}} is similar, but runs as a standalone app, is more structured, and includes a widget for extracting snippets from web pages.
+
+In this project, you will design and implement your own sticky note application as a JavaScript program running client side, with state persisted on a web server.
+
+## Deliverables
+
+There are four phases to the project. In the first phase, you will lay the groundwork for the second and third phases by constructing a design for both versions. The second phase is an implementation of a "minimal viable product"—a very basic stickies app. The third phase is an extension of your implementation with some features of your own invention. In the fourth phase, you will review your work and the work of a peer.
+
+This is the first project that requires you to include unit tests. You are required to write tests only for controller actions that correspond to Ajax requests.
+
+**Minimal requirements.** Your minimal viable product, implemented in the second phase, should run as a client-side application; that is, it should load as a single web page and should subsequently issue only asynchronous calls.
+
+Furthermore, it should allow the user at least to:
+
+- Create, view and edit a collection of textual notes
+- Persist the notes on a centralized server
+- Keep notes private from other users
+
+**Extension.** It is entirely up to you what feature or features you choose to add in the third phase. A portion of your grade will be allocated to the quality of your feature(s); emphasis will be placed on clarity and integrity of design and implementation. Novelty will be rewarded, with bonus points that will compensate for lost functionality points, but is not required. Examples of suitable features might include: specialized note types (such as calendar reminders); a search mechanism; automatically arranging notes visually in some way; or excerpting content from web pages.
+
+### Phase 1: Design of Minimum Viable Product
+
+In the first phase, you will construct a design for both the minimal viable product and for your extension. Your design must very clearly separate the two parts.
+
+**Checklist items.** Of the items specified on the project checklist, you should include in this phase:
+
+- Design: all parts, except for Design/Evaluation, and notes on code design (under Design/Challenges)
+
+### Phase 2: Implementation of Minimum Viable Product
+
+In the second phase, you will implement your minimal viable product. You will need to revise your design as you discover flaws during implementation. Your revised design document must include clear indications of which parts have changed.
+
+**Checklist items.** Of the items specified on the project checklist, you should include in this phase:
+
+- Programming: all parts, including unit tests
+- Design: all parts (except for design critique)
+
+### Phase 3: Implementation of Extension
+
+In the third phase, you will implement your extension. As before, your revised design document must include clear indications of which parts have changed.
+
+**Checklist items.** Of the items specified on the project checklist, you should include in this phase:
+
+- Programming: all parts, including unit tests
+- Design: all parts (except for design critique)
+
+### Phase 4: Critique
+
+**Minimal requirements.** This phase involves no new design or implementation work. Instead, you will write two short critiques: one of your own work, and one of your peer's work. In addition to checking the critiques into your own repository, you should post your peer critique as one or more issues in your peer's repository.
+
+**Checklist items.** You should include in this phase:
+
+- Design/Evaluation/Critique for each of the two projects
+- Design/Evaluation/Reflection for your own project

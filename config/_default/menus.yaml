@@ -1,0 +1,64 @@
+leftnav:
+- identifier: 4b4e1986-753a-956b-1d98-ca07abfe00df
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: c80d9ffe-2e3d-8fc6-b777-5f35b6f43220
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 6b6aaff6-5564-7548-6cac-616cb72ef1ea
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: cf1ce8a7-b030-ae95-29fe-ab84f20f3ff2
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 40
+- identifier: d7a647f3-28ab-84d8-1ca5-1afd7100e87a
+  name: Recitations
+  pageRef: /pages/recitations
+  weight: 50
+- identifier: 1b52d2eb-781f-59fc-2005-cfdb8156e288
+  name: Projects
+  pageRef: /pages/projects/
+  weight: 60
+- identifier: cd84f10e-c926-28f6-ea47-ff224e7fdfd5
+  name: 'Project 0: A Simple "Hello World" App'
+  pageRef: /pages/projects/project-0-a-simple-hello-world-app
+  parent: 1b52d2eb-781f-59fc-2005-cfdb8156e288
+  weight: 70
+- identifier: a34b2caf-5ee0-ad39-fbb0-ce7fdbaa7ac2
+  name: 'Project 1: Web Analytics'
+  pageRef: /pages/projects/project-1-web-analytics/
+  parent: 1b52d2eb-781f-59fc-2005-cfdb8156e288
+  weight: 80
+- identifier: 20735433-db81-6010-17a0-c8daa1a923e7
+  name: 'Project 2: Shopping Cart'
+  pageRef: /pages/projects/project-2-shopping-cart
+  parent: 1b52d2eb-781f-59fc-2005-cfdb8156e288
+  weight: 90
+- identifier: 0d24d28e-38e9-aeba-0a38-f6372fba5d1f
+  name: 'Project 3: Network Stickies'
+  pageRef: /pages/projects/project-3-network-stickies
+  parent: 1b52d2eb-781f-59fc-2005-cfdb8156e288
+  weight: 100
+- identifier: 05d04175-ee26-9075-a490-a2b40d25c00d
+  name: Final Project Guidelines
+  pageRef: /pages/projects/final-project-guidelines
+  parent: 1b52d2eb-781f-59fc-2005-cfdb8156e288
+  weight: 110
+- identifier: 74dc8725-36ca-d9b0-c77d-60f21a3e12ce
+  name: Final Project Ideas
+  pageRef: /pages/projects/final-project-ideas
+  parent: 1b52d2eb-781f-59fc-2005-cfdb8156e288
+  weight: 120
+- identifier: 0929dbf5-8d9f-5890-c0e7-d9165d7c8809
+  name: Related Resources
+  pageRef: /pages/related-resources/
+  weight: 130
+- identifier: 360bda6e-9b4d-44ab-d682-120d3eace2cd
+  name: 'Ruby on Rails: Hints and Gotcha''s'
+  pageRef: /pages/related-resources/ruby-on-rails-hints-and-gotchas
+  parent: 0929dbf5-8d9f-5890-c0e7-d9165d7c8809
+  weight: 140
