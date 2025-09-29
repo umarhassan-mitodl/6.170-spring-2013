@@ -4,6 +4,8 @@ description: This file contains information regarding recitation 8.
 file: /courses/6-170-software-studio-spring-2013/aaa58e03cc5e7fa146e1e9aa340af822_MIT6_170S13_rec8-RailsTes.pdf
 file_size: 388325
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: This file contains information regarding recitation 7.
 file: /courses/6-170-software-studio-spring-2013/9d4bbcd029fd6ca32170ae93ede16c47_MIT6_170S13_rec7-RailsSec.pdf
 file_size: 564847
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

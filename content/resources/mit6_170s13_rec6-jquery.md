@@ -4,6 +4,8 @@ description: This file contains information regarding recitation 6.
 file: /courses/6-170-software-studio-spring-2013/646097a072ea684f18237b44f42db548_MIT6_170S13_rec6-jQuery.pdf
 file_size: 443808
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: This file contains information regarding project checklist.
 file: /courses/6-170-software-studio-spring-2013/a5bcd8f98c3b4e39117002331fee576b_MIT6_170S13_proj-chklst.pdf
 file_size: 574345
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

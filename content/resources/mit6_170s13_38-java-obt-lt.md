@@ -4,6 +4,8 @@ description: This file contains information regarding lecture 38.
 file: /courses/6-170-software-studio-spring-2013/c10f2cf96d1fe497678ed1c0ddd94d00_MIT6_170S13_38-java-obt-lt.pdf
 file_size: 607362
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

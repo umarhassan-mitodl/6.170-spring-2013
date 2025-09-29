@@ -3,6 +3,8 @@ content_type: page
 description: This syllabus section provides the course description and information
   on course meeting times, objectives, structure, collaboration and grading, and the
   class contract.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -111,7 +113,7 @@ The solo projects are to be done individually though you may discuss your approa
 
 ### Reuse
 
-You are free to use any third-party code, whether as libraries or code fragments, and to adopt any ideas you find online or in books, so long as it is publicly available and appropriately cited (see the {{% resource_link "276856df-2d04-4196-8c98-f841889e449e" "section on code" %}} in the {{% resource_link "c17dba1f-3f1b-4de3-940b-3eb83e1ae97d" "MIT Academic Integrity Handbook" %}} for details). You may not use work produced by students in earlier offerings of this class. If you violate this policy, you can expect to be asked to drop the class (or worse). The team projects, of course, are intended to be fully collaborative.
+You are free to use any third-party code, whether as libraries or code fragments, and to adopt any ideas you find online or in books, so long as it is publicly available and appropriately cited (see the [section on code](http://integrity.mit.edu/handbook/writing-code) in the [MIT Academic Integrity Handbook](http://web.mit.edu/academicintegrity) for details). You may not use work produced by students in earlier offerings of this class. If you violate this policy, you can expect to be asked to drop the class (or worse). The team projects, of course, are intended to be fully collaborative.
 
 Class Contract
 --------------

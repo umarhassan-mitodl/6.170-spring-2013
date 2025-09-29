@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides a project overview, the list of deliverables, and
   hints for a project to build a web analytics service.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -15,7 +17,7 @@ uid: a34b2caf-5ee0-ad39-fbb0-ce7fdbaa7ac2
 Overview
 --------
 
-In this project, you will build a web analytics service that provides people who run websites with data about the type and frequency of visits. Two kinds of analytics tools are available. One kind, which you will build, is a service such as {{% resource_link "7d57ebe2-60d6-46a1-9706-a38ca66cee04" "Google Analytics" %}} or {{% resource_link "e4a4963a-4ddb-45ad-a5d2-343d3afdf96b" "Stat Counter" %}} that provides a code snippet to insert in any web page, and then tracks visits to that page. Another kind, such as {{% resource_link "6fc1ff5a-d90b-414b-91b5-c6d3739b9de1" "AWStats" %}}, operates purely on the server side, and tracks requests either by running as part of the application, or by processing web server log files. Open source implementations such as {{% resource_link "b76e0ea7-f9a9-4bd2-b862-d40e6844faef" "Piwik" %}} and {{% resource_link "051291d4-6ec4-4614-8bfa-4e445724413f" "OWA" %}} offer one or both forms of tool.
+In this project, you will build a web analytics service that provides people who run websites with data about the type and frequency of visits. Two kinds of analytics tools are available. One kind, which you will build, is a service such as [Google Analytics](http://www.google.com/analytics) or [Stat Counter](http://statcounter.com/) that provides a code snippet to insert in any web page, and then tracks visits to that page. Another kind, such as [AWStats](http://awstats.sourceforge.net/), operates purely on the server side, and tracks requests either by running as part of the application, or by processing web server log files. Open source implementations such as [Piwik](http://piwik.org/) and [OWA](http://www.openwebanalytics.com/) offer one or both forms of tool.
 
 Deliverables
 ------------

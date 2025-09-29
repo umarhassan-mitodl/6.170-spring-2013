@@ -4,6 +4,8 @@ description: This file contains information regarding lecture 43.
 file: /courses/6-170-software-studio-spring-2013/3f7d4ad291a8bb992f755ee2513c5ae3_MIT6_170S13_43-dom-idioms.pdf
 file_size: 360446
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

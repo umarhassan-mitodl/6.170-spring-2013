@@ -4,6 +4,8 @@ description: This file contains information regarding lecture 48.
 file: /courses/6-170-software-studio-spring-2013/23728628acd5486841f72e85b02ef24c_MIT6_170S13_48-asyn-exam.pdf
 file_size: 594945
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

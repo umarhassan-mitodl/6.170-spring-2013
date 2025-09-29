@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides details on the course projects, including an introductory
   project, three solo projects, and a final team project.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

@@ -4,6 +4,8 @@ description: This file contains information regarding recitation 0.
 file: /courses/6-170-software-studio-spring-2013/b58bfbc30c9ff12e806f9e1742cc3e77_MIT6_170S13_rec0DevEnvSet.pdf
 file_size: 237032
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

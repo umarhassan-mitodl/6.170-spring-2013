@@ -4,6 +4,8 @@ description: This file contains information regarding lecture 46.
 file: /courses/6-170-software-studio-spring-2013/3d214f422bce315227ea5d05853cfada_MIT6_170S13_46-dom-stars.pdf
 file_size: 614025
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

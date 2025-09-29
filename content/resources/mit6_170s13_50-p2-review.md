@@ -4,6 +4,8 @@ description: ''
 file: /courses/6-170-software-studio-spring-2013/4c185f8bbbe25b4c68516cf4bdb1dabf_MIT6_170S13_50-p2-review.pdf
 file_size: 2816046
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

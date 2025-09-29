@@ -4,6 +4,8 @@ description: This file contains information regarding lecture 29.
 file: /courses/6-170-software-studio-spring-2013/e27f5e7ca6cd3bf503ade9041fbcf2fa_MIT6_170S13_29-con-idioms.pdf
 file_size: 1085658
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: This file contains information regarding lecture 54.
 file: /courses/6-170-software-studio-spring-2013/42e56d84b2d84ca6ca1c058fb492cd54_MIT6_170S13_54-devel-proce.pdf
 file_size: 541858
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

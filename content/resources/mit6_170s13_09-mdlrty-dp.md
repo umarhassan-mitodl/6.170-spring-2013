@@ -4,6 +4,8 @@ description: This file contains information regarding lecture 09.
 file: /courses/6-170-software-studio-spring-2013/0a98160682b33387c2bb70a2fdf2fb0f_MIT6_170S13_09-mdlrty-dp.pdf
 file_size: 254413
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

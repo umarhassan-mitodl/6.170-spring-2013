@@ -4,6 +4,8 @@ description: This file contains information regarding lecture 40.
 file: /courses/6-170-software-studio-spring-2013/1258e629d24b94d8203e457c512a3ee1_MIT6_170S13_40-java-prot.pdf
 file_size: 204402
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

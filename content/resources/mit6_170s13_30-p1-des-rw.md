@@ -4,6 +4,8 @@ description: This file contains information regarding lecture 30.
 file: /courses/6-170-software-studio-spring-2013/7b9a95c88fda7acd366c2e28d4838d20_MIT6_170S13_30-p1-des-rw.pdf
 file_size: 2305499
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

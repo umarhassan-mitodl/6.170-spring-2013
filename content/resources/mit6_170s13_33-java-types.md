@@ -4,6 +4,8 @@ description: This file contains information regarding lecture 33.
 file: /courses/6-170-software-studio-spring-2013/487cdde2b27759b34d8f4c54eff168e8_MIT6_170S13_33-java-types.pdf
 file_size: 757538
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

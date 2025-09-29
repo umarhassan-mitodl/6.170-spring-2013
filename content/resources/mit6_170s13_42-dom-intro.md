@@ -4,6 +4,8 @@ description: This file contains information regarding lecture 42.
 file: /courses/6-170-software-studio-spring-2013/2781cde2015754d7b34d145270898b70_MIT6_170S13_42-dom-intro.pdf
 file_size: 926376
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: This file contains information regarding lecture 41.
 file: /courses/6-170-software-studio-spring-2013/f530c04424817268d4d3b08cdd40481e_MIT6_170S13_41-java-nast.pdf
 file_size: 627792
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

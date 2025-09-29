@@ -4,6 +4,8 @@ description: This file contains information regarding lecture 28.
 file: /courses/6-170-software-studio-spring-2013/fba964ce0817bed1cb666febfce5f26f_MIT6_170S13_28-con-design.pdf
 file_size: 652276
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: This file contains information regarding lecture 08.
 file: /courses/6-170-software-studio-spring-2013/67b9b2f52222362b273de0c6638626e4_MIT6_170S13_08-sep-of-conc.pdf
 file_size: 657838
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

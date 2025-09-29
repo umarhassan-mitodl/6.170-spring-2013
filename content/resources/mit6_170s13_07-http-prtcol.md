@@ -4,6 +4,8 @@ description: This file contains information regarding lecture 07.
 file: /courses/6-170-software-studio-spring-2013/fee5e84c1834966a08fb46ecfeafe0f3_MIT6_170S13_07-http-prtcol.pdf
 file_size: 534024
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

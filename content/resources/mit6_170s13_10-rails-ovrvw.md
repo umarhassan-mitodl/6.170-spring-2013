@@ -4,6 +4,8 @@ description: This file contains information regarding lecture 10.
 file: /courses/6-170-software-studio-spring-2013/41673afb1ac2f91f3724fd7d28c5da14_MIT6_170S13_10-rails-ovrvw.pdf
 file_size: 1178938
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

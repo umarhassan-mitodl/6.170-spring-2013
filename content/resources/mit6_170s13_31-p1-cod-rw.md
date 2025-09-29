@@ -4,6 +4,8 @@ description: This file contains information regarding lecture 31.
 file: /courses/6-170-software-studio-spring-2013/86f00b1e1eef181ea5d838c3ab366c82_MIT6_170S13_31-p1-cod-rw.pdf
 file_size: 654058
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

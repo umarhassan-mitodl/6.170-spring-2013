@@ -4,6 +4,8 @@ description: This file contains information regarding recitation 1.
 file: /courses/6-170-software-studio-spring-2013/9395cd5506f95fee592ddadfa920b0ee_MIT6_170S13_rec1-Git.pdf
 file_size: 707114
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

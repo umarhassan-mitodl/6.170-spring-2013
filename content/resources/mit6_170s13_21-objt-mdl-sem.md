@@ -4,6 +4,8 @@ description: This file contains information regarding lecture 21.
 file: /courses/6-170-software-studio-spring-2013/4c3c717a805dce7b7fd679cf56b3517c_MIT6_170S13_21-objt-mdl-sem.pdf
 file_size: 825025
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

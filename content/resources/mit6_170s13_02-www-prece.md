@@ -4,6 +4,8 @@ description: This file contains information regarding lecture 02.
 file: /courses/6-170-software-studio-spring-2013/d26d46cd5f16d609f3f76a5e09b0de23_MIT6_170S13_02-www-prece.pdf
 file_size: 314013
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

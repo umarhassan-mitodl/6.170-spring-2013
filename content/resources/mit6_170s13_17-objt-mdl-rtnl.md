@@ -4,6 +4,8 @@ description: This file contains information regarding lecture 17.
 file: /courses/6-170-software-studio-spring-2013/8524059a3b1d5f6558c79646bdc0cf6d_MIT6_170S13_17-objt-mdl-rtnl.pdf
 file_size: 461583
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

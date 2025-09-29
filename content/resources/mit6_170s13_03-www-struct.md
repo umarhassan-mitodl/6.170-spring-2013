@@ -4,6 +4,8 @@ description: This file contains information regarding lecture 03.
 file: /courses/6-170-software-studio-spring-2013/fa4ed4deb3f11774a25b736e34f384c8_MIT6_170S13_03-www-struct.pdf
 file_size: 491126
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: This file contains information regarding lecture 12.
 file: /courses/6-170-software-studio-spring-2013/f40c29247cde1c4ea720f13a57a9865a_MIT6_170S13_12-web-frmwks.pdf
 file_size: 730444
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

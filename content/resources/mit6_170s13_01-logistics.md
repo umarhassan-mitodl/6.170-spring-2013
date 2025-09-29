@@ -4,6 +4,8 @@ description: This file contains information regarding lecture 01.
 file: /courses/6-170-software-studio-spring-2013/4f0e1c65345b11df2b3e222abad24c19_MIT6_170S13_01-logistics.pdf
 file_size: 101310
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

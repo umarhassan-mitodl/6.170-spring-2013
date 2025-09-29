@@ -4,6 +4,8 @@ description: This file contains information regarding lecture 11.
 file: /courses/6-170-software-studio-spring-2013/33c8b43002321bc6e32af0fa421dc8b2_MIT6_170S13_11-mdl-vw-cntrl.pdf
 file_size: 131058
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -33,6 +33,7 @@
     "website": "6-170-software-studio-spring-2013"
   },
   "course_title": "Software Studio",
+  "hide_download": true,
   "course_description": "This course on software engineering covers design and implementation of medium-scale software systems, using web applications as a platform. In the course, students learn the fundamentals of structuring a web application and writing modular code, with an emphasis on conceptual design to achieve clarity, simplicity, and modularity. Topics also include functional programming, relational databases, and security.\n",
   "department_numbers": [
     "6"
@@ -43,6 +44,7 @@
     "content": "be278447-eb37-df0d-983e-0d9392950513",
     "website": "6-170-software-studio-spring-2013"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Projects"

@@ -4,6 +4,8 @@ description: This file contains information regarding lecture 56.
 file: /courses/6-170-software-studio-spring-2013/5442e3fc42355088ec9b137f8afaf699_MIT6_170S13_56-sec-rev.pdf
 file_size: 658545
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

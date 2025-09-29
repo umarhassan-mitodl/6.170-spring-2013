@@ -4,6 +4,8 @@ description: This file contains information regarding lecture 55.
 file: /courses/6-170-software-studio-spring-2013/5fa576597d71d2be10337e4c602d271c_MIT6_170S13_55-th-on-proc.pdf
 file_size: 1452054
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

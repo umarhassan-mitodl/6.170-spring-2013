@@ -4,6 +4,8 @@ description: This file contains information regarding lecture 60.
 file: /courses/6-170-software-studio-spring-2013/4cd68871ba70ef3695b0be98ff057468_MIT6_170S13_60-final-proj.pdf
 file_size: 599549
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

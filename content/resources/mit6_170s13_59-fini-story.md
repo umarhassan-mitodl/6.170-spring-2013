@@ -4,6 +4,8 @@ description: This file contains information regarding lecture 59.
 file: /courses/6-170-software-studio-spring-2013/1f85e91fef2a31de15a346b424d7ad0a_MIT6_170S13_59-fini-story.pdf
 file_size: 805991
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

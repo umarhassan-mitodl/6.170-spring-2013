@@ -4,6 +4,8 @@ description: This file contains information regarding lecture 23.
 file: /courses/6-170-software-studio-spring-2013/7cb37d4617509263123ef8e47255bd4f_MIT6_170S13_23-rails-model.pdf
 file_size: 622788
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

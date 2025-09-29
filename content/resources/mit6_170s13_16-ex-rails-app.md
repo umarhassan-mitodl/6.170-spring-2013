@@ -4,6 +4,8 @@ description: This file contains information regarding lecture 16.
 file: /courses/6-170-software-studio-spring-2013/3ca980232399870a0e38456eea59f35f_MIT6_170S13_16-ex-rails-app.pdf
 file_size: 317017
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

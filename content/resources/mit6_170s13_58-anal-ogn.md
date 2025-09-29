@@ -4,6 +4,8 @@ description: This file contains information regarding lecture 58.
 file: /courses/6-170-software-studio-spring-2013/a2acea2dbfdf2cce822ab7253509eaa0_MIT6_170S13_58-anal-ogn.pdf
 file_size: 769503
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

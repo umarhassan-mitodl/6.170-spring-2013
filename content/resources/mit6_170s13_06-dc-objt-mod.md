@@ -4,6 +4,8 @@ description: This file contains information regarding lecture 06.
 file: /courses/6-170-software-studio-spring-2013/7d560f916b107a65a0abbcf8e0a1b13c_MIT6_170S13_06-dc-objt-mod.pdf
 file_size: 853225
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

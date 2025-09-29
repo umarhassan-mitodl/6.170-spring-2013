@@ -4,6 +4,8 @@ description: This file contains information regarding lecture 39.
 file: /courses/6-170-software-studio-spring-2013/ac8ff1830ce6b0886b13b8ff4b353d71_MIT6_170S13_39-java-adts.pdf
 file_size: 611100
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides a project overview, the list of deliverables, and
   hints for a project to build a basic shopping card application.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -15,7 +17,7 @@ uid: 20735433-db81-6010-17a0-c8daa1a923e7
 Overview
 --------
 
-Online stores ({{% resource_link "d38cd7fc-29e9-4a49-bed1-142bcbd1d610" "Amazon" %}}, {{% resource_link "b90b0e1f-324f-41cd-aeaa-98ebc4d8d9a2" "Newegg" %}}, {{% resource_link "b4edb9e2-af63-43e5-86cf-08340deed51d" "Zappos" %}}, {{% resource_link "a31fd48a-a8c9-4c6d-a172-89dc397bd572" "Half.com" %}}) offer the notion of a shopping cart. Just as MP3 players often have a "rewind" button even though the physical notion of rewinding no longer exists, shoppers have come to expect an online cart to have the same features as a physical cart: temporarily holding items until purchase, removals and additions, and so on. Website visitors can usually place items in a cart before logging in or identifying themselves, and may be able to retain a cart's contents across sessions. Large retailers typically implement their own shopping cart applications, but smaller ones often use third-party services, such as {{% resource_link "4ec8e191-2eb4-4440-9155-27cfd786df83" "Opencart" %}}, {{% resource_link "5b5e0779-8346-468b-b6bf-128b454b26e2" "Shopify" %}}, {{% resource_link "e036256c-89bd-4d10-9283-4d5133d17f15" "PayPal" %}}, and {{% resource_link "20bd59a1-f009-4a6e-9574-c6cdac237c48" "Stripe" %}}.
+Online stores ([Amazon](http://www.amazon.com/), [Newegg](http://www.newegg.com/), [Zappos](http://www.zappos.com/), [Half.com](http://www.half.com/)) offer the notion of a shopping cart. Just as MP3 players often have a "rewind" button even though the physical notion of rewinding no longer exists, shoppers have come to expect an online cart to have the same features as a physical cart: temporarily holding items until purchase, removals and additions, and so on. Website visitors can usually place items in a cart before logging in or identifying themselves, and may be able to retain a cart's contents across sessions. Large retailers typically implement their own shopping cart applications, but smaller ones often use third-party services, such as [Opencart](http://www.opencart.com/), [Shopify](http://www.shopify.com/), [PayPal](https://developer.paypal.com/), and [Stripe](https://stripe.com/).
 
 In this project, you will implement a basic shopping cart application with two user interfaces: one for a shopper (for purchasing items), and one for a shopkeeper (for editing the catalog of items and for reviewing orders).
 

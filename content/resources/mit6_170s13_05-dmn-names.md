@@ -4,6 +4,8 @@ description: This file contains information regarding lecture 05.
 file: /courses/6-170-software-studio-spring-2013/507199fa95ba5d27942b2769eb228854_MIT6_170S13_05-dmn-names.pdf
 file_size: 1043231
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

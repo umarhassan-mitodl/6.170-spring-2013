@@ -4,6 +4,8 @@ description: This file contains information regarding lecture 24.
 file: /courses/6-170-software-studio-spring-2013/e939dd0c9aa911110aca65bb317f55da_MIT6_170S13_24-objt-mdl-tns.pdf
 file_size: 685567
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

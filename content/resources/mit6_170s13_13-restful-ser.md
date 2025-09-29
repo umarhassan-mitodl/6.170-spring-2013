@@ -4,6 +4,8 @@ description: This file contains information regarding lecture 13.
 file: /courses/6-170-software-studio-spring-2013/aa065f57ba2b6fbef32a9fb47ed9e7d5_MIT6_170S13_13-restful-ser.pdf
 file_size: 415732
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
