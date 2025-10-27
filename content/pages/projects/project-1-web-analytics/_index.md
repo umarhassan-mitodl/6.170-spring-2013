@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides a project overview, the list of deliverables, and
   hints for a project to build a web analytics service.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -17,7 +15,7 @@ uid: a34b2caf-5ee0-ad39-fbb0-ce7fdbaa7ac2
 Overview
 --------
 
-In this project, you will build a web analytics service that provides people who run websites with data about the type and frequency of visits. Two kinds of analytics tools are available. One kind, which you will build, is a service such as [Google Analytics](http://www.google.com/analytics) or [Stat Counter](http://statcounter.com/) that provides a code snippet to insert in any web page, and then tracks visits to that page. Another kind, such as [AWStats](http://awstats.sourceforge.net/), operates purely on the server side, and tracks requests either by running as part of the application, or by processing web server log files. Open source implementations such as [Piwik](http://piwik.org/) and [OWA](http://www.openwebanalytics.com/) offer one or both forms of tool.
+In this project, you will build a web analytics service that provides people who run websites with data about the type and frequency of visits. Two kinds of analytics tools are available. One kind, which you will build, is a service such as {{% resource_link "0d26a06e-b1e9-4cd6-96a8-b8210e084331" "Google Analytics" %}} or {{% resource_link "54f4fb6f-964e-4635-8970-ff9e41152d4d" "Stat Counter" %}} that provides a code snippet to insert in any web page, and then tracks visits to that page. Another kind, such as {{% resource_link "a4c1232b-67e0-4f51-85d8-ff654097265b" "AWStats" %}}, operates purely on the server side, and tracks requests either by running as part of the application, or by processing web server log files. Open source implementations such as {{% resource_link "fcdef199-4dd6-4547-80ef-9026943b83bd" "Piwik" %}} and {{% resource_link "11056944-d3b1-4742-ab65-7be12faaf9a2" "OWA" %}} offer one or both forms of tool.
 
 Deliverables
 ------------
